@@ -1,7 +1,7 @@
 $(function() {
 
    
-    // Fexed Header
+    // Fixed Header
     let header = $("#header");
     let intro = $("#intro");
     let introH = intro.innerHeight();
